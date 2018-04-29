@@ -1,0 +1,4 @@
+{
+    "presets": ["env", "react"],
+    "plugins": ["transform-runtime", "lodash", "transform-object-rest-spread"]
+}
